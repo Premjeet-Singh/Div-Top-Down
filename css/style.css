@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: palegoldenrod;
+}
+div.contentbox {
+    background: mediumaquamarine;
+    height: 480px;
+    margin: 20px;
+    font-size: 28px;
+    border: greenyellow 5px groove;
+    font-size: 30px;
+}
+a{
+    background: lightskyblue;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+    line-height: 1.5;
+    border: #345 1px solid;
+    border-radius: 5px;
+}
+h2{
+    width: 40%;
+    height: 50px;
+    background: gainsboro;
+    text-align: center;
+    margin: 40px auto;
+    line-height: 1.55;
+    font-size: 30px;
+    border: salmon 2px solid;
+    border-radius: 10px;
+}
